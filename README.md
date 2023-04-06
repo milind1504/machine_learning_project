@@ -7,7 +7,7 @@
 ### Software and account Requirements.
 
 1. [Github Account](http://github.com)
-2. [Heroku Account](http://dashbord.heroku.com/login)
+2. [Heroku Account](http://dashboard.heroku.com/login)
 3. [VS Code IDE](http://code.visualstudio.com/download)
 4. [GIT cli](http://git-scm.com/downloads)
 
